@@ -1,0 +1,20 @@
+
+1) npm install
+
+2) npm install vue
+
+3) for version problem:
+    "vue-template-compiler": "^2.1.8"
+    "vue": "^2.0.8"
+
+4) npm run hot  
+
+resource/js/app.js root file
+
+https://github.com/adelwon/todolist/blob/master/resources/js/vue/app.vue
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/free-brands-svg-icons
+
+npm i --save @fortawesome/vue-fontawesome@2
